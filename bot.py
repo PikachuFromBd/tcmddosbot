@@ -18,7 +18,7 @@ import concurrent.futures
 import random, datetime, telegram    
 
 #Telegram token
-token = os.getenv('token', '6374420997:AAFSiANqFzW6xsVMTrck4izax8Y-ErS7sto')
+token = os.getenv('token', '6913749718:AAFbf7ZYAT62CFyfY7idamUL_PoPrZ3iOkU')
 bot_number = os.getenv('bot_number', '999999999')
 methods = ['methods', '/httpfspoof', '/help', 'start'] # Methods
 updater = Updater(token, use_context = True)
